@@ -8,20 +8,20 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 
 ## Benchmark
 ### FR
-- [] ⏳ PSNR
-- [] ⏳ VMAF
-- [] ⏳ MS-SSIM
-- [] P1204.3
-- [] HDR-VDP-3
+- [ ] ⏳ PSNR
+- [ ] ⏳ VMAF
+- [ ] ⏳ MS-SSIM
+- [ ] P1204.3
+- [ ] HDR-VDP-3
 
 ### NR
-- [] FastVQA
-- [] COVER
-- [] HDRMAX
-- [] HDR-ChipQA
-- [] Q-Align
-- [] Compression_RQ
-- [] TVQA-C
+- [ ] FastVQA
+- [ ] COVER
+- [ ] HDRMAX
+- [ ] HDR-ChipQA
+- [ ] Q-Align
+- [ ] Compression_RQ
+- [ ] TVQA-C
 
 ## Resources
 For more information about the challenge, please visit the official [ICME 2025 Grand Challenge website](https://sites.google.com/view/icme25-vqm-gc/home?authuser=0).
