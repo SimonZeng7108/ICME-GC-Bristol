@@ -7,10 +7,17 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 
 
 ## Benchmark
+
+| Model  | PLCC  | SRCC  | KROCC |
+|--------|-------|-------|-------|
+| PSNR | 0.558 | 0.619 | 0.440 |
+| VMAF | 0.752 | 0.784 | 0.557 |
+| MS-SSIM | 0.364 | 0.640 | 0.457 |
+
 ### FR
-- [ ] ⏳ PSNR
-- [ ] ⏳ VMAF
-- [ ] ⏳ MS-SSIM
+- [x] PSNR
+- [x] VMAF
+- [x] MS-SSIM
 - [ ] P1204.3
 - [ ] HDR-VDP-3
 
