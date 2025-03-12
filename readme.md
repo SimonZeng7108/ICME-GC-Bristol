@@ -6,6 +6,22 @@
 This repository contains code and resources for the ICME 2025 Grand Challenge focused on Generalizable HDR & SDR Video Quality Measurement. The challenge aims to improve objective video quality models (VQM) for both HDR (High Dynamic Range) and SDR (Standard Dynamic Range) video content.
 
 
+## Benchmark
+### FR
+- [ ] ⏳ PSNR
+- [ ] ⏳ VMAF
+- [ ] ⏳ MS-SSIM
+- [ ] P1204.3
+- [ ] HDR-VDP-3
+
+### NR
+- [ ] FastVQA
+- [ ] COVER
+- [ ] HDRMAX
+- [ ] HDR-ChipQA
+- [ ] Q-Align
+- [ ] Compression_RQ
+- [ ] TVQA-C
 
 ## Resources
 For more information about the challenge, please visit the official [ICME 2025 Grand Challenge website](https://sites.google.com/view/icme25-vqm-gc/home?authuser=0).
