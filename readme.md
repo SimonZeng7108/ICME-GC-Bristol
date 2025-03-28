@@ -1,5 +1,5 @@
 # ICME 2025 Generalizable HDR & SDR Video Quality Measurement Grand Challenge
-## Team Bristol - Chen Feng, Chengxi Zeng, Yuxuan Jiang, Robbie Hamilton, Fan Zhang
+## Team Bristol - Chen Feng, Chengxi Zeng, Yuxuan Jiang, Robbie Hamilton, Tianhao Peng, Fan Zhang
 
 ## Overview
 This repository contains code and resources for the ICME 2025 Grand Challenge focused on Generalizable HDR & SDR Video Quality Measurement. The challenge aims to improve objective video quality models (VQM) for both HDR (High Dynamic Range) and SDR (Standard Dynamic Range) video content.
@@ -12,6 +12,7 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 | PSNR       | 0.606 | 0.619 | 0.440 |
 | VMAF       | 0.769 | 0.784 | 0.557 |
 | MS-SSIM    | 0.634 | 0.640 | 0.457 |
+| RankDVQA   | 0.614 | 0.624 |     x |
 |------------|-------|-------|-------|
 | **No-Reference (NR)**   |       |       |       |
 | FastVQA    | TBD   | TBD   | TBD   |
@@ -27,7 +28,8 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 - [x] PSNR
 - [x] VMAF
 - [x] MS-SSIM
-- [ ] HDR-VDP-3
+- [x] RankDVQA
+- [ ] HDR-VDP-2.3
 
 ### NR
 - [ ] P1204.3
