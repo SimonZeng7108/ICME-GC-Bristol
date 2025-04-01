@@ -17,7 +17,7 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 | **No-Reference (NR)**   |       |       |       |
 | FastVQA    | TBD   | TBD   | TBD   |
 | COVER      | 0.433 | 0.430 | 0.290 |
-| P1204.3    | TBD   |       |       |
+| P1204.3    | 0.794 | 0.814 | 0.604 |
 | HDRMAX     | TBD   | TBD   | TBD   |
 | HDR-ChipQA | TBD   | TBD   | TBD   |
 | Q-Align    | TBD   | TBD   | TBD   |
