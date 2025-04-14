@@ -13,6 +13,7 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 | VMAF       | 0.769 | 0.784 | 0.557 |
 | MS-SSIM    | 0.634 | 0.640 | 0.457 |
 | RankDVQA   | 0.614 | 0.624 |     x |
+| HDR-VDP-3  | 0.672 | 0.696 | 0.504 |
 |------------|-------|-------|-------|
 | **No-Reference (NR)**   |       |       |       |
 | FastVQA    | TBD   | TBD   | TBD   |
@@ -29,7 +30,7 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 - [x] VMAF
 - [x] MS-SSIM
 - [x] RankDVQA
-- [ ] HDR-VDP-2.3
+- [x] [HDR-VDP-3 ](https://gitlab.com/wg1/jpeg-ai/jpeg-ai-qaf/-/tree/feature/HDR-VDP2.2/main)
 
 ### NR
 - [ ] P1204.3
