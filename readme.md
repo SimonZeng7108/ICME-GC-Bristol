@@ -16,9 +16,9 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 | HDR-VDP-3  | 0.672 | 0.696 | 0.504 |
 |------------|-------|-------|-------|
 | **No-Reference (NR)**   |       |       |       |
-| FastVQA    | TBD   | TBD   | TBD   |
-| COVER      | 0.381 | 0.371 | 0.254 |
-| P1204.3    | TBD   |       |       |
+| FastVQA    | 0.200 | 0.192 | 0.126 |
+| COVER      | 0.433 | 0.430 | 0.290 |
+| P1204.3    | 0.794 | 0.814 | 0.604 |
 | HDRMAX     | TBD   | TBD   | TBD   |
 | HDR-ChipQA | TBD   | TBD   | TBD   |
 | Q-Align    | TBD   | TBD   | TBD   |
@@ -33,8 +33,8 @@ This repository contains code and resources for the ICME 2025 Grand Challenge fo
 - [x] [HDR-VDP-3 ](https://gitlab.com/wg1/jpeg-ai/jpeg-ai-qaf/-/tree/feature/HDR-VDP2.2/main)
 
 ### NR
-- [ ] P1204.3
-- [ ] FastVQA
+- [x] P1204.3
+- [x] FastVQA
 - [x] COVER
 - [ ] HDRMAX
 - [ ] HDR-ChipQA
